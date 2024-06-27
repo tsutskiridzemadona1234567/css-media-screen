@@ -1,0 +1,20 @@
+body{
+  background-color: #FFFFFF;
+  margin: 0;
+}
+.full{
+  height:832px;
+  width: 469px;
+}
+.sighin{
+  padding-left: 300px;
+  padding-bottom:  150px;
+}
+
+@media screen and (max-width: 768px){
+  .sighin{
+    padding-left: 300px;
+    padding-bottom:  150px;
+  }
+  
+}
